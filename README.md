@@ -1,8 +1,11 @@
-# 🧩 Atividade SPA - Desenvolvimento Front-End para Web
+# 🧩 painel-spa-interativo - Desenvolvimento Front-End para Web
 
 **Aluno:** Felipe Ticiano Foltram  
 **Instituição:** Cruzeiro do Sul Virtual  
-**Atividade:** Single Page Application (SPA) conforme o enunciado da 3ª entrega  
+**Atividade:** Single Page Application (SPA) 
+
+
+
 
 ---
 
